@@ -147,3 +147,4 @@ No such changes are part of this repository's intended save-backup workflow.
 
 Independent community project. Not affiliated with DragDrop Games or Valve. Please review the release contents and confirm the tool's behavior on your own save copy before relying on it for important progress.
  
+ 
